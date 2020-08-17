@@ -8,4 +8,4 @@ Seed project for TS packages
 
 *TBD*
 
-For detailed documentation see the [TypeDocs documentation](https://gherking.github.io/ts-seed/).
+For detailed documentation see the [TypeDocs documentation](https://szikszail.github.io/ts-seed/).
